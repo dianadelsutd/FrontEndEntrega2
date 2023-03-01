@@ -1,6 +1,14 @@
 h1, h2{
     background-color: #C4C4C4;
     color: #005677;
+    letter-spacing: 4px;
+    padding: 9px;
+    
+}
+
+h2 {
+    padding: 3px;
+    font-size: 18px;
 }
 
 footer {
@@ -50,9 +58,10 @@ dt{
     /* border:1px solid grey;
     display: table-cell; */
 }
-.footer {
-    display: inline;
-    margin-right: 20px;
+footer {
+    height: 35px;
+    padding: 10px;
+
 }
 
 .vertical{
@@ -63,7 +72,11 @@ dl{
    /* border: 3px solid black; */
 }
 
-
+.logosfooter{
+    width: 20px;
+    padding-inline: 10px;
+    color: rgba(red, green, blue, 50);
+}
 
 
 
